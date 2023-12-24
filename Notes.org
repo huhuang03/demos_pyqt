@@ -1,2 +1,6 @@
 - widgets without parent are invisible by default
 - qAction can used for add qtoolbutton and menu both
+- create python file from ui file
+#+BEGIN_SRC shell
+qtside-uic xxx.ui -o xx.py
+#+END_SRC
