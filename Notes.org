@@ -1,0 +1,2 @@
+- widgets without parent are invisible by default
+- qAction can used for add qtoolbutton and menu both
