@@ -4,6 +4,7 @@ from PySide6.QtCore import QSize
 import sys
 
 app = QApplication(sys.argv)
+app.setStyle('Fusion')
 
 
 # window = QMainWindow()
