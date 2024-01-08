@@ -1,4 +1,11 @@
 - widgets without parent are invisible by default
 - qAction can used for add qtoolbutton and menu both
+<<<<<<< HEAD
 
 - Signal need define at class level. not in init
+=======
+- create python file from ui file
+#+BEGIN_SRC shell
+qtside-uic xxx.ui -o xx.py
+#+END_SRC
+>>>>>>> 26805da11864e2fc9a6a2020a8bc3afa31a15841
