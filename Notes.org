@@ -1,2 +1,4 @@
 - widgets without parent are invisible by default
 - qAction can used for add qtoolbutton and menu both
+
+- Signal need define at class level. not in init
